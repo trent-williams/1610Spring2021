@@ -6,3 +6,4 @@ Start Date: 1/13/2021
 1/18 - Sunny, but windy and cold
 1/19 - Sunncy, but windy and cold
 1/20 - Yet again, Sunny, but cold. Not quite windy yet.
+1/21 - Sunny, but not windy until the afternoon
