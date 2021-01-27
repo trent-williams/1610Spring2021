@@ -7,7 +7,11 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="BallGenerator1.cs" t="Include" />
+          <e p="BallGenerator.cs" t="Include" />
+          <e p="Class Education" t="Include">
+            <e p="Animal.cs" t="Include" />
+            <e p="Mamal.cs" t="Include" />
+          </e>
           <e p="Tutorial Scripts" t="Include">
             <e p="InstantiationExample.cs" t="Include" />
             <e p="Syntax.cs" t="Include" />
