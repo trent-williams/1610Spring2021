@@ -13,8 +13,18 @@
             <e p="Mamal.cs" t="Include" />
           </e>
           <e p="Tutorial Scripts" t="Include">
+            <e p="Activating Game Objects" t="Include">
+              <e p="ActiveObjects.cs" t="Include" />
+              <e p="CheckState.cs" t="Include" />
+            </e>
+            <e p="AwakeAndStart.cs" t="Include" />
+            <e p="CameraLookAt.cs" t="Include" />
+            <e p="EnableComponents.cs" t="Include" />
             <e p="ifStatements.cs" t="Include" />
             <e p="InstantiationExample.cs" t="Include" />
+            <e p="Linear Interpretation" t="Include">
+              <e p="LerpFunctions.cs" t="Include" />
+            </e>
             <e p="Loops" t="Include">
               <e p="DoWhileLoop.cs" t="Include" />
               <e p="ForEachLoop.cs" t="Include" />
@@ -26,6 +36,8 @@
               <e p="ScopeAndAccessModifiers.cs" t="Include" />
             </e>
             <e p="Syntax.cs" t="Include" />
+            <e p="TranslateAndRotate.cs" t="Include" />
+            <e p="UpdateAndFixedUpdate.cs" t="Include" />
             <e p="VariableTesting.cs" t="Include" />
           </e>
         </e>

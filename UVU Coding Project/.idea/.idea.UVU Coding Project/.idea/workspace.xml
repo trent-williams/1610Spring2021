@@ -4,7 +4,6 @@
     <list default="true" id="82eaaf81-f923-450a-880e-2f90cdbfe6cd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +14,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/EnableComponents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Activating Game Objects/ActiveObjects.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E414E10B-FE5F-4572-9FF1-22F3359DE21B/d6/18916520/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Scope and Access/ScopeAndAccessModifiers.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7A640F6C-B241-40B6-897C-AC910F849430/d6/c003b36a/Single.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/UpdateAndFixedUpdate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Loops/DoWhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/CameraLookAt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E414E10B-FE5F-4572-9FF1-22F3359DE21B/c6/b2e81b92/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Scope and Access/AnotherClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Scope and Access/ScopeAndAccessModifiers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Linear Interpretation/LerpFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E414E10B-FE5F-4572-9FF1-22F3359DE21B/66/0afe47f5/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/TranslateAndRotate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Loops/ForEachLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E414E10B-FE5F-4572-9FF1-22F3359DE21B/83/30242bcd/Component.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -36,6 +42,15 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Loops/DoWhileLoop.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Loops/ForEachLoop.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Scope and Access/ScopeAndAccessModifiers.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Scope and Access/AnotherClass.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/AwakeAndStart.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/UpdateAndFixedUpdate.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/EnableComponents.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Activating Game Objects/ActiveObjects.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Activating Game Objects/CheckState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/TranslateAndRotate.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/CameraLookAt.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Linear Interpretation/LerpFunctions.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ncTnNGoAZkrag5QJPaSnfr22xI" />
@@ -82,7 +97,8 @@
       <updated>1611688545011</updated>
       <workItem from="1611693379324" duration="797000" />
       <workItem from="1611767216806" duration="2610000" />
-      <workItem from="1611811315676" duration="2037000" />
+      <workItem from="1611811315676" duration="2402000" />
+      <workItem from="1611853358356" duration="3652000" />
     </task>
     <servers />
   </component>
