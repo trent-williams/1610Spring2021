@@ -4,6 +4,8 @@
     <list default="true" id="82eaaf81-f923-450a-880e-2f90cdbfe6cd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Linear Interpretation/LerpFunctions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Linear Interpretation/LerpFunctions.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +52,11 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Activating Game Objects/CheckState.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/TranslateAndRotate.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/CameraLookAt.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Destory/DestroyBasic.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Linear Interpretation/LerpFunctions.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Destory/DestroyComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Destory/DestroyOther.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Destory/BasicDestroy.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ncTnNGoAZkrag5QJPaSnfr22xI" />
@@ -98,7 +104,7 @@
       <workItem from="1611693379324" duration="797000" />
       <workItem from="1611767216806" duration="2610000" />
       <workItem from="1611811315676" duration="2402000" />
-      <workItem from="1611853358356" duration="3652000" />
+      <workItem from="1611853358356" duration="4464000" />
     </task>
     <servers />
   </component>

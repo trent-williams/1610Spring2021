@@ -19,6 +19,11 @@
             </e>
             <e p="AwakeAndStart.cs" t="Include" />
             <e p="CameraLookAt.cs" t="Include" />
+            <e p="Destory" t="Include">
+              <e p="BasicDestroy.cs" t="Include" />
+              <e p="DestroyComponent.cs" t="Include" />
+              <e p="DestroyOther.cs" t="Include" />
+            </e>
             <e p="EnableComponents.cs" t="Include" />
             <e p="ifStatements.cs" t="Include" />
             <e p="InstantiationExample.cs" t="Include" />
