@@ -1,4 +1,4 @@
-using System;
+/*using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -7,7 +7,7 @@ public class LerpFunctions : MonoBehaviour
 {
    //Code not meant to run. Ignore errors involving the variable "result" 
 void Start()
-/*{
+{
     // In this case, result = 4
     float result = Mathf.Lerp(3f, 5f, 0.5f);
     

@@ -17,16 +17,42 @@
               <e p="ActiveObjects.cs" t="Include" />
               <e p="CheckState.cs" t="Include" />
             </e>
+            <e p="Arrays.cs" t="Include" />
             <e p="AwakeAndStart.cs" t="Include" />
             <e p="CameraLookAt.cs" t="Include" />
+            <e p="Classes" t="Include">
+              <e p="Inventory.cs" t="Include" />
+              <e p="MovementControls.cs" t="Include" />
+              <e p="Shooting.cs" t="Include" />
+              <e p="SingleCharacterScript.cs" t="Include" />
+            </e>
+            <e p="ConversationScript.cs" t="Include" />
+            <e p="DataTypeScript.cs" t="Include" />
+            <e p="DeltaTime.cs" t="Include" />
             <e p="Destory" t="Include">
               <e p="BasicDestroy.cs" t="Include" />
               <e p="DestroyComponent.cs" t="Include" />
               <e p="DestroyOther.cs" t="Include" />
             </e>
             <e p="EnableComponents.cs" t="Include" />
+            <e p="EnumScript.cs" t="Include" />
+            <e p="GetAxis" t="Include">
+              <e p="AxisExample.cs" t="Include" />
+              <e p="AxisRawExample.cs" t="Include" />
+              <e p="DualAxisExample.cs" t="Include" />
+            </e>
+            <e p="GetMouseDown.cs" t="Include" />
+            <e p="Getting Components" t="Include">
+              <e p="AnotherScript.cs" t="Include" />
+              <e p="UsingOtherComponents.cs" t="Include" />
+              <e p="YetAnotherScript.cs" t="Include" />
+            </e>
             <e p="ifStatements.cs" t="Include" />
             <e p="InstantiationExample.cs" t="Include" />
+            <e p="Invoking" t="Include">
+              <e p="InvokeRepeating.cs" t="Include" />
+              <e p="InvokeScript.cs" t="Include" />
+            </e>
             <e p="Linear Interpretation" t="Include">
               <e p="LerpFunctions.cs" t="Include" />
             </e>
@@ -36,6 +62,10 @@
               <e p="ForLoop.cs" t="Include" />
               <e p="WhileLoop.cs" t="Include" />
             </e>
+            <e p="Projectiles" t="Include">
+              <e p="RocketDestruction.cs" t="Include" />
+              <e p="UsingInstantiate.cs" t="Include" />
+            </e>
             <e p="Scope and Access" t="Include">
               <e p="AnotherClass.cs" t="Include" />
               <e p="ScopeAndAccessModifiers.cs" t="Include" />
@@ -43,6 +73,10 @@
             <e p="Syntax.cs" t="Include" />
             <e p="TranslateAndRotate.cs" t="Include" />
             <e p="UpdateAndFixedUpdate.cs" t="Include" />
+            <e p="User Input" t="Include">
+              <e p="ButtonInput.cs" t="Include" />
+              <e p="KeyInput.cs" t="Include" />
+            </e>
             <e p="VariableTesting.cs" t="Include" />
           </e>
         </e>
