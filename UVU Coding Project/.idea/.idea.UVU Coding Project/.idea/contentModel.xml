@@ -41,7 +41,6 @@
               <e p="AxisRawExample.cs" t="Include" />
               <e p="DualAxisExample.cs" t="Include" />
             </e>
-            <e p="GetMouseDown.cs" t="Include" />
             <e p="Getting Components" t="Include">
               <e p="AnotherScript.cs" t="Include" />
               <e p="UsingOtherComponents.cs" t="Include" />
@@ -52,9 +51,6 @@
             <e p="Invoking" t="Include">
               <e p="InvokeRepeating.cs" t="Include" />
               <e p="InvokeScript.cs" t="Include" />
-            </e>
-            <e p="Linear Interpretation" t="Include">
-              <e p="LerpFunctions.cs" t="Include" />
             </e>
             <e p="Loops" t="Include">
               <e p="DoWhileLoop.cs" t="Include" />
@@ -79,6 +75,7 @@
             </e>
             <e p="VariableTesting.cs" t="Include" />
           </e>
+          <e p="UserInput.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
