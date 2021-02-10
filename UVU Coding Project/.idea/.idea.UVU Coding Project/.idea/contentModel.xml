@@ -73,6 +73,10 @@
               <e p="ButtonInput.cs" t="Include" />
               <e p="KeyInput.cs" t="Include" />
             </e>
+            <e p="Variables and Operators" t="Include">
+              <e p="Operators.cs" t="Include" />
+              <e p="Variables.cs" t="Include" />
+            </e>
             <e p="VariableTesting.cs" t="Include" />
           </e>
           <e p="UserInput.cs" t="Include" />

@@ -1,25 +1,27 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 
 public class UserInput : MonoBehaviour
 {
-    public Rigidbody2D ballRigidbody2D;
-    public float speed = 6f;
-    public float jumpForce = 300f;
+    public float speed = 3f;
+    public float jumpForce = 20f;
+    public Rigidbody2D rigidbodyObj;
     
     private Vector2 direction;
-    private Vector2 yDirection;
 
-    void Update()
+    private void Update()
     {
-        direction.x = Input.GetAxis("Horizontal") * speed;
-        ballRigidbody2D.AddForce(direction, ForceMode2D.Force);
+        direction.x = speed * Input.GetAxis("Horizontal");
+        rigidbodyObj.AddForce(direction, ForceMode2D.Force);
 
         if (Input.GetButtonDown("Jump"))
         {
-            yDirection.y = jumpForce;
-            ballRigidbody2D.AddForce(yDirection, ForceMode2D.Force);
+            direction.y = jumpForce;
+            rigidbodyObj.AddForce(direction, ForceMode2D.Impulse);
         }
+        
     }
 }

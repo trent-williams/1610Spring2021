@@ -5,11 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/GetMouseDown.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/GetMouseDown.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Linear Interpretation/LerpFunctions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Linear Interpretation/LerpFunctions.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +85,8 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/EnumScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/ConversationScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/UserInput.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Variables and Operators/Variables.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Variables and Operators/Operators.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ncTnNGoAZkrag5QJPaSnfr22xI" />
@@ -141,6 +138,7 @@
       <workItem from="1611853358356" duration="4464000" />
       <workItem from="1611937751441" duration="7556000" />
       <workItem from="1612199741632" duration="1135000" />
+      <workItem from="1612916302369" duration="766000" />
     </task>
     <servers />
   </component>
