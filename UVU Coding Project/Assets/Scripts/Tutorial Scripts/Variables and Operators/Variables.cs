@@ -13,6 +13,12 @@ public class Variables : MonoBehaviour
     public float firstFloat = 6.7f;
     private float secondFloat = 95f;
     private float thirdFloat = 0.75f;
+
+    public string name = "John Doe";
+    public string gender = "Male";
+    public string hairColor = "Blonde";
+
+    public bool dmvQuestions = true;
     void Start()
     {
         

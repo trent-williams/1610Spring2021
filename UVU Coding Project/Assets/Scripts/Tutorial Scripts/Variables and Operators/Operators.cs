@@ -12,8 +12,11 @@ public class Operators : MonoBehaviour
     int x >= 1;
     
     x /= 8;
-    
-
+    x == 439;
+        
+    x > 4 && x < 50;
+    x = 60 || x < 75;
+    !(x > 4 && x < 50);
     void Start()
     {
         

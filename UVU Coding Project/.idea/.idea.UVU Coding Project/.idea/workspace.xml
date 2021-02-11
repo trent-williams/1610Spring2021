@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82eaaf81-f923-450a-880e-2f90cdbfe6cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Variables and Operators/Operators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Variables and Operators/Operators.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Variables and Operators/Variables.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Variables and Operators/Variables.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +84,8 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/EnumScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/ConversationScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/UserInput.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Variables and Operators/Variables.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Variables and Operators/Operators.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Variables and Operators/Variables.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ncTnNGoAZkrag5QJPaSnfr22xI" />
@@ -139,6 +138,7 @@
       <workItem from="1611937751441" duration="7556000" />
       <workItem from="1612199741632" duration="1135000" />
       <workItem from="1612916302369" duration="766000" />
+      <workItem from="1613022217286" duration="366000" />
     </task>
     <servers />
   </component>
