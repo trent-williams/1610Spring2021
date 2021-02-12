@@ -19,6 +19,12 @@ public class Variables : MonoBehaviour
     public string hairColor = "Blonde";
 
     public bool dmvQuestions = true;
+
+    private double myDecimal = 7.6543;
+
+    public char letterOne = 'G';
+
+    private long superLongNumber = 10000000000006;
     void Start()
     {
         

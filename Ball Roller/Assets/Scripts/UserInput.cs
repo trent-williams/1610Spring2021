@@ -7,7 +7,7 @@ using UnityEngine;
 public class UserInput : MonoBehaviour
 {
     public float speed = 3f;
-    public float jumpForce = 20f;
+    public float jumpForce = 5f;
     public Rigidbody2D rigidbodyObj;
     
     private Vector2 direction;

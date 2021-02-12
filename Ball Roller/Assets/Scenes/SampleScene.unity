@@ -1080,7 +1080,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  jumpForce: 20
+  jumpForce: 5
   rigidbodyObj: {fileID: 1731865446}
 --- !u!212 &1731865448
 SpriteRenderer:
