@@ -7,7 +7,7 @@ using UnityEngine;
 public class UserInput : MonoBehaviour
 {
     public float speed = 3f;
-    public float jumpForce = 5f;
+    public float jumpForce = 2f;
     public Rigidbody2D rigidbodyObj;
     
     private Vector2 direction;
@@ -20,7 +20,7 @@ public class UserInput : MonoBehaviour
         if (Input.GetButtonDown("Jump"))
         {
             direction.y = jumpForce;
-            rigidbodyObj.AddForce(direction, ForceMode2D.Impulse);
+            rigidbodyObj.AddForce(direction, ForceMode2D.Force);
         }
         
     }
