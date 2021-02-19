@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82eaaf81-f923-450a-880e-2f90cdbfe6cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -86,6 +87,8 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/UserInput.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Variables and Operators/Operators.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Variables and Operators/Variables.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Conditinals and Switches/ConditionalStatements.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Conditinals and Switches/Switches.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ncTnNGoAZkrag5QJPaSnfr22xI" />
@@ -140,6 +143,7 @@
       <workItem from="1612916302369" duration="766000" />
       <workItem from="1613022217286" duration="430000" />
       <workItem from="1613107022866" duration="738000" />
+      <workItem from="1613755850636" duration="1861000" />
     </task>
     <servers />
   </component>

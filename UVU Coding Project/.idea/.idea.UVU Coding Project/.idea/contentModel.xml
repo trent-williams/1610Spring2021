@@ -26,6 +26,10 @@
               <e p="Shooting.cs" t="Include" />
               <e p="SingleCharacterScript.cs" t="Include" />
             </e>
+            <e p="Conditinals and Switches" t="Include">
+              <e p="ConditionalStatements.cs" t="Include" />
+              <e p="Switches.cs" t="Include" />
+            </e>
             <e p="ConversationScript.cs" t="Include" />
             <e p="DataTypeScript.cs" t="Include" />
             <e p="DeltaTime.cs" t="Include" />
