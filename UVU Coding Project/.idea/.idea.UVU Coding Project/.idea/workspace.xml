@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82eaaf81-f923-450a-880e-2f90cdbfe6cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Ball Roller/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Ball Roller/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ball Roller/Assets/Scriptable Objects/Weapons/Axe.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Ball Roller/Assets/Scriptable Objects/Weapons/Axe.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ball Roller/Assets/Scriptable Objects/Weapons/Bow.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Ball Roller/Assets/Scriptable Objects/Weapons/Bow.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ball Roller/Assets/Scriptable Objects/Weapons/Staff.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Ball Roller/Assets/Scriptable Objects/Weapons/Staff.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ball Roller/Assets/Scriptable Objects/Weapons/Sword.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Ball Roller/Assets/Scriptable Objects/Weapons/Sword.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVU Coding Project/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +17,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/EnableComponents.cs" root0="FORCE_HIGHLIGHTING" />
@@ -39,8 +51,6 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/FisrtScript.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Animal.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Mamal.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Class Education/Animal.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/ifStatements.cs" />
@@ -89,6 +99,9 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Variables and Operators/Variables.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Conditinals and Switches/ConditionalStatements.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial Scripts/Conditinals and Switches/Switches.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Class Education/Beginner Scripting 4/ForLoop.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Class Education/Beginner Scripting 4/Arrays.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Class Education/Beginner Scripting 4/WhileLoop.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ncTnNGoAZkrag5QJPaSnfr22xI" />
@@ -144,6 +157,7 @@
       <workItem from="1613022217286" duration="430000" />
       <workItem from="1613107022866" duration="738000" />
       <workItem from="1613755850636" duration="1861000" />
+      <workItem from="1614122932137" duration="1773000" />
     </task>
     <servers />
   </component>

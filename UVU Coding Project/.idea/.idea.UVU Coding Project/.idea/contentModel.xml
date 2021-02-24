@@ -10,6 +10,11 @@
           <e p="BallGenerator.cs" t="Include" />
           <e p="Class Education" t="Include">
             <e p="Animal.cs" t="Include" />
+            <e p="Beginner Scripting 4" t="Include">
+              <e p="Arrays.cs" t="Include" />
+              <e p="ForLoop.cs" t="Include" />
+              <e p="WhileLoop.cs" t="Include" />
+            </e>
             <e p="Mamal.cs" t="Include" />
           </e>
           <e p="Tutorial Scripts" t="Include">
