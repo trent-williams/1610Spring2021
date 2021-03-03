@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Creating With Code.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\trent\Documents\School\Scripting for Animation\Code\1610Spring2021\Creating With Code\.idea\.idea.Creating With Code\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
