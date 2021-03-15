@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Learning 3D Code.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\trent\Documents\School\Scripting for Animation\Code\1610Spring2021\Learning 3D Code\.idea\.idea.Learning 3D Code\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
