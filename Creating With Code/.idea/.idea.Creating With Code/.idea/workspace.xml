@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00da7b9c-4039-4a21-b16b-40d47c998e3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/DestroyOutOfBounds.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/DestroyOutOfBounds.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/SpawnManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/SpawnManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animal_Chicken_White.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Animal_Chicken_White.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animal_Cow_White.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Animal_Cow_White.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animal_Rooster_Brown.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Animal_Rooster_Brown.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Food_Bone_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Food_Bone_01.prefab" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,12 +22,21 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/PropRotator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/DetectColissions.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" />
       <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/FollowPlayerX.cs" />
       <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PropRotator.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerControllerHuman.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/MoveForward.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/PlayerControllerHuman.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/SpawnManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/DetectColissions.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/DestroyOutOfBounds.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1pInTofsp6Zg7ju0KKyo6C9QS4P" />
@@ -65,6 +82,8 @@
       <option name="presentableId" value="Default" />
       <updated>1614879485571</updated>
       <workItem from="1614879497390" duration="1445000" />
+      <workItem from="1615848080506" duration="2780000" />
+      <workItem from="1615916365113" duration="3507000" />
     </task>
     <servers />
   </component>
@@ -83,6 +102,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
