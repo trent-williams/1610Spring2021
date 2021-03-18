@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00da7b9c-4039-4a21-b16b-40d47c998e3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/SD_Animal_Dog.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/SD_Animal_Dog.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning 3D Code/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning 3D Code/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +27,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/PropRotator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/DetectColissions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerXX.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -30,6 +41,9 @@
       <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/SpawnManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/DetectColissions.cs" />
       <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/DestroyOutOfBounds.cs" />
+      <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerXX.cs" />
+      <option value="$PROJECT_DIR$/Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs" />
+      <option value="$PROJECT_DIR$/Assets/Challenge 2/Scripts/SpawnManagerX.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1pInTofsp6Zg7ju0KKyo6C9QS4P" />
@@ -77,6 +91,7 @@
       <workItem from="1614879497390" duration="1445000" />
       <workItem from="1615848080506" duration="2780000" />
       <workItem from="1615916365113" duration="3793000" />
+      <workItem from="1616042023160" duration="1083000" />
     </task>
     <servers />
   </component>
