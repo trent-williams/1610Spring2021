@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 
-//[RequireComponent(Rigidbody2D)];
+[RequireComponent(typeof(Rigidbody2D))]
 public class UserInput : MonoBehaviour
 {
     public float speed = 3f;
