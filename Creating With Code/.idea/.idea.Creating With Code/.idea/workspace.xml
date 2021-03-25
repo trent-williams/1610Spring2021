@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00da7b9c-4039-4a21-b16b-40d47c998e3e" name="Default Changelist" comment="">
+    <list default="true" id="053e8862-944b-4fc3-ae89-b03b4421b60b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 2/Challenge 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenge 2/Challenge 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Barrel_02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Barrel_02.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Crate_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Crate_01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Barrier01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Barrier01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Barrier02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Barrier02.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Spool_02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Spool_02.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/SM_Rock_Boulder_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/SM_Rock_Boulder_01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/SM_Rock_Boulder_01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/SM_Rock_Boulder_01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/Animations.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/Animations.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/SimpleCharacter.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/SimpleCharacter.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,29 +27,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/PropRotator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/DetectColissions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerXX.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/DestroyOutOfBounds3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/BackgroundRepeat.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" />
-      <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/FollowPlayerX.cs" />
-      <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PropRotator.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerController.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerControllerHuman.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/MoveForward.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/PlayerControllerHuman.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/SpawnManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/DetectColissions.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 2/DestroyOutOfBounds.cs" />
-      <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerXX.cs" />
-      <option value="$PROJECT_DIR$/Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs" />
-      <option value="$PROJECT_DIR$/Assets/Challenge 2/Scripts/SpawnManagerX.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/SpawnManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/DestroyOutOfBounds3.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/BackgroundRepeat.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/MoveLeftBehavior.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/SpawnManager3.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/PlayerController3.cs" />
     </changedPaths>
   </component>
-  <component name="ProjectId" id="1pInTofsp6Zg7ju0KKyo6C9QS4P" />
+  <component name="ProjectId" id="1qFzsme9LnAXGEzyHQsFzWbsLDJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -73,15 +77,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="00da7b9c-4039-4a21-b16b-40d47c998e3e" name="Default Changelist" comment="" />
-      <created>1614879485571</created>
+      <changelist id="053e8862-944b-4fc3-ae89-b03b4421b60b" name="Default Changelist" comment="" />
+      <created>1616690337889</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614879485571</updated>
-      <workItem from="1614879497390" duration="1445000" />
-      <workItem from="1615848080506" duration="2780000" />
-      <workItem from="1615916365113" duration="3793000" />
-      <workItem from="1616042023160" duration="1246000" />
+      <updated>1616690337889</updated>
+      <workItem from="1616690346331" duration="5626000" />
     </task>
     <servers />
   </component>
@@ -100,7 +101,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

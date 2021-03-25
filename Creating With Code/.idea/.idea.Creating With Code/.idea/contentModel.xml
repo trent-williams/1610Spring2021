@@ -25,6 +25,9 @@
         <e p="Course Library" t="Include">
           <e p="_Source_Files" t="Include">
             <e p="_LICENSE.txt" t="Include" />
+            <e p="Materials" t="Include">
+              <e p="UnlitVertexColour_Alpha.shader" t="Include" />
+            </e>
           </e>
           <e p="Scripts" t="Include">
             <e p="CharacterMover.cs" t="Include" />
@@ -36,6 +39,13 @@
               <e p="MoveForward.cs" t="Include" />
               <e p="PlayerControllerHuman.cs" t="Include" />
               <e p="SpawnManager.cs" t="Include" />
+            </e>
+            <e p="Prototype 3" t="Include">
+              <e p="BackgroundRepeat.cs" t="Include" />
+              <e p="DestroyOutOfBounds3.cs" t="Include" />
+              <e p="MoveLeftBehavior.cs" t="Include" />
+              <e p="PlayerController3.cs" t="Include" />
+              <e p="SpawnManager3.cs" t="Include" />
             </e>
           </e>
         </e>
