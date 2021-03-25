@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="053e8862-944b-4fc3-ae89-b03b4421b60b" name="Default Changelist" comment="">
+    <list default="true" id="2da3c8cb-6171-4537-bb24-a099289bcdf5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Barrel_02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Barrel_02.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Crate_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Crate_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Barrier01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Barrier01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Barrier02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Barrier02.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Spool_02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Spool_02.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/SM_Rock_Boulder_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/SM_Rock_Boulder_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/SM_Rock_Boulder_01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/SM_Rock_Boulder_01.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/Animations.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/Animations.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/SimpleCharacter.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/SimpleCharacter.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonPrototype_Texture_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonPrototype_Texture_01.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,21 +15,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/DestroyOutOfBounds3.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/BackgroundRepeat.cs" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/SpawnManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/DestroyOutOfBounds3.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/BackgroundRepeat.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/MoveLeftBehavior.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/SpawnManager3.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Prototype 3/PlayerController3.cs" />
+      <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/RepeatBackgroundX.cs" />
+      <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/MoveLeftX.cs" />
+      <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/SpawnManagerXXX.cs" />
+      <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/PlayerControllerXXX.cs" />
     </changedPaths>
   </component>
-  <component name="ProjectId" id="1qFzsme9LnAXGEzyHQsFzWbsLDJ" />
+  <component name="ProjectId" id="1qGNdILFMbCdbXenMvl1hj0wlZd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -77,12 +60,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="053e8862-944b-4fc3-ae89-b03b4421b60b" name="Default Changelist" comment="" />
-      <created>1616690337889</created>
+      <changelist id="2da3c8cb-6171-4537-bb24-a099289bcdf5" name="Default Changelist" comment="" />
+      <created>1616702056960</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1616690337889</updated>
-      <workItem from="1616690346331" duration="5626000" />
+      <updated>1616702056960</updated>
+      <workItem from="1616702061840" duration="1302000" />
     </task>
     <servers />
   </component>
