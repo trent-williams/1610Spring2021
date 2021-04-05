@@ -16,4 +16,9 @@ public class IntData : ScriptableObject
     {
         value++;
     }
+
+    public void Add(int number)
+    {
+        value += number;
+    }
 }
