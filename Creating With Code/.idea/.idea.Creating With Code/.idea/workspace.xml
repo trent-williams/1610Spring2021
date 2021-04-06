@@ -4,80 +4,20 @@
     <list default="true" id="d91cd27c-2d7b-42b5-93cf-da8e6bc2bba5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Challenge 4.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Challenge 4.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Instructions.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Instructions/Challenge 4 - Outcome.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Instructions/Challenge 4 - Outcome.mov.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs/Enemy.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs/Enemy.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs/Powerup.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs/Powerup.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs/Smoke_Particle.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs/Smoke_Particle.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/EnemyX.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/EnemyX.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/PlayerControllerX.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/PlayerControllerX.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/RotateCameraX.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/RotateCameraX.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/SpawnManagerX.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/SpawnManagerX.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/Blue.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/Blue.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/BouncyX.physicMaterial" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/BouncyX.physicMaterial.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/Grey.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/Grey.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/PolygonPrototype_Texture_Grid_03_2.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/PolygonPrototype_Texture_Grid_03_2.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/PolygonPrototype_Texture_Grid_07_2.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/PolygonPrototype_Texture_Grid_07_2.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/PolygonPrototype_Texture_Grid_Glass_01_02.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/PolygonPrototype_Texture_Grid_Glass_01_02.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/Red.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/Red.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Ground.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Ground/Ground_Tile_Hex_FloatingIsland_01.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Ground/Ground_Tile_Hex_FloatingIsland_01.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Powerup Indicators.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Powerup Indicators/SelectionRing_02.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Powerup Indicators/SelectionRing_02.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Materials/SumoBalls_Material.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Materials/SumoBalls_Material.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Textures/SumoBalls.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Textures/SumoBalls.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Textures.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/Ground.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/Ground/Grass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/Ground/Grass.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/Ground/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/Ground/Materials/Grass.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/Ground/Materials/Grass.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_Gem_01.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_Gem_01.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_SelectionRing_02.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_SelectionRing_02.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Item_Ball_Soccer_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Item_Ball_Soccer_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Tile_Hex_FloatingIsland_01.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Tile_Hex_FloatingIsland_01.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonMinis_Fantasy_01.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonMinis_Fantasy_01.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonPrototype_Texture_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonPrototype_Texture_01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/PolygonMinis_Texture_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/PolygonMinis_Texture_01.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/PolygonMinis_Texture_01_Purple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/PolygonMinis_Texture_01_Purple.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +44,9 @@
       <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Targets.cs" />
       <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/GameManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/DifficultyButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Challenge 5/Scripts/TargetX.cs" />
+      <option value="$PROJECT_DIR$/Assets/Challenge 5/Scripts/GameManagerX.cs" />
+      <option value="$PROJECT_DIR$/Assets/Challenge 5/Scripts/DifficultyButtonX.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1qnojvyNlkJdIQFg6k5KFOaQ5XY" />
@@ -148,7 +91,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617724856643</updated>
-      <workItem from="1617724861915" duration="5136000" />
+      <workItem from="1617724861915" duration="5380000" />
+      <workItem from="1617734253295" duration="431000" />
     </task>
     <servers />
   </component>
@@ -167,6 +111,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
