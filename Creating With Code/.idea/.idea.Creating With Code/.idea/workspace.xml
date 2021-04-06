@@ -1,112 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2da3c8cb-6171-4537-bb24-a099289bcdf5" name="Default Changelist" comment="">
+    <list default="true" id="d91cd27c-2d7b-42b5-93cf-da8e6bc2bba5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Ground/Ground_Tile_Cube_FloatingIsland_01.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Ground/Ground_Tile_Cube_FloatingIsland_01.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Materials/PolygonPrototype_Texture_Grid_07.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Materials/PolygonPrototype_Texture_Grid_07.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Materials/PolygonPrototype_Texture_Grid_Glass_01.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Materials/PolygonPrototype_Texture_Grid_Glass_01.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Physics Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Physics Materials/Bouncy.physicMaterial" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Physics Materials/Bouncy.physicMaterial.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/DollarSign.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/DollarSign.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/FireIcon.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/FireIcon.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/Gem_01.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/Gem_01.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/GoldCupIcon.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/GoldCupIcon.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/MultiplierIcon.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/MultiplierIcon.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/Potion_01.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/Potion_01.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/PowerIcon.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/PowerIcon.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/RadiationIcon.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/RadiationIcon.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/RepairIcon.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/RepairIcon.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/Star_01.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Pickups/Star_01.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Powerup Indicators/Balloon_01.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Powerup Indicators/Balloon_01.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Powerup Indicators/SelectionRing_03.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Powerup Indicators/SelectionRing_03.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Powerup Indicators/SelectionRing_06.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Powerup Indicators/SelectionRing_06.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/EnemyBehavior.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/EnemyBehavior.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/RotateCamera.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/RotateCamera.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/SpawnManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/SpawnManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Sky.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Sky/SkyDome.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Sky/SkyDome.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_01.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_02.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_04.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_05.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_06.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_08.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SI_FireIcon.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SI_FireIcon.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SI_GoldCupIcon.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SI_GoldCupIcon.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SI_MultiplierIcon.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SI_MultiplierIcon.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SI_PowerIcon.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SI_PowerIcon.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SI_RadiationIcon.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SI_RadiationIcon.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SI_RepairIcon.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SI_RepairIcon.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SI_Symbol_Dollar.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SI_Symbol_Dollar.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_Balloon_01.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_Balloon_01.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_Potion_02.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_Potion_02.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_SelectionRing_03.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_SelectionRing_03.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_SelectionRing_06.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_SelectionRing_06.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_Star_01.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_Star_01.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Tile_Cube_FloatingIsland_01.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Tile_Cube_FloatingIsland_01.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SkyDome.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SkyDome.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/FX_Dust.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/FX_Dust.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/FX_Mist.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/FX_Mist.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/SimpleIcons.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/SimpleIcons.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/SimpleSky.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/SimpleSky.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/SimpleIcons_Texture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/SimpleIcons_Texture.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/SimpleSky.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/SimpleSky.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Challenge 4.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Challenge 4.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Instructions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Instructions/Challenge 4 - Outcome.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Instructions/Challenge 4 - Outcome.mov.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs/Enemy.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs/Enemy.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs/Powerup.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs/Powerup.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs/Smoke_Particle.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs/Smoke_Particle.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/EnemyX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/EnemyX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/PlayerControllerX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/PlayerControllerX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/RotateCameraX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/RotateCameraX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/SpawnManagerX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/SpawnManagerX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/Blue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/Blue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/BouncyX.physicMaterial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/BouncyX.physicMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/Grey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/Grey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/PolygonPrototype_Texture_Grid_03_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/PolygonPrototype_Texture_Grid_03_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/PolygonPrototype_Texture_Grid_07_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/PolygonPrototype_Texture_Grid_07_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/PolygonPrototype_Texture_Grid_Glass_01_02.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/PolygonPrototype_Texture_Grid_Glass_01_02.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/Red.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/_Source_Files/Materials/Red.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Ground.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Ground/Ground_Tile_Hex_FloatingIsland_01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Ground/Ground_Tile_Hex_FloatingIsland_01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Powerup Indicators.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Powerup Indicators/SelectionRing_02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Powerup Indicators/SelectionRing_02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Materials/SumoBalls_Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Materials/SumoBalls_Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Textures/SumoBalls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Textures/SumoBalls.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Textures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/Ground.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/Ground/Grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/Ground/Grass.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/Ground/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/Ground/Materials/Grass.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Textures/Ground/Materials/Grass.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_Gem_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_Gem_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_SelectionRing_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Icon_SelectionRing_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Item_Ball_Soccer_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Item_Ball_Soccer_01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Tile_Hex_FloatingIsland_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Tile_Hex_FloatingIsland_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonMinis_Fantasy_01.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonMinis_Fantasy_01.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonPrototype_Texture_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonPrototype_Texture_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/PolygonMinis_Texture_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/PolygonMinis_Texture_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/PolygonMinis_Texture_01_Purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/PolygonMinis_Texture_01_Purple.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,22 +87,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/DifficultyButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/RepeatBackgroundX.cs" />
-      <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/MoveLeftX.cs" />
-      <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/SpawnManagerXXX.cs" />
-      <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/PlayerControllerXXX.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/RotateCamera.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerController.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/EnemyBehavior.cs" />
-      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/SpawnManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Challenge 4/Scripts/PlayerControllerX.cs" />
-      <option value="$PROJECT_DIR$/Assets/Challenge 4/Scripts/SpawnManagerX.cs" />
-      <option value="$PROJECT_DIR$/Assets/Challenge 4/Scripts/EnemyX.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Targets.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/DifficultyButton.cs" />
     </changedPaths>
   </component>
-  <component name="ProjectId" id="1qGNdILFMbCdbXenMvl1hj0wlZd" />
+  <component name="ProjectId" id="1qnojvyNlkJdIQFg6k5KFOaQ5XY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -168,14 +143,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2da3c8cb-6171-4537-bb24-a099289bcdf5" name="Default Changelist" comment="" />
-      <created>1616702056960</created>
+      <changelist id="d91cd27c-2d7b-42b5-93cf-da8e6bc2bba5" name="Default Changelist" comment="" />
+      <created>1617724856643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1616702056960</updated>
-      <workItem from="1616702061840" duration="1447000" />
-      <workItem from="1617129122195" duration="4998000" />
-      <workItem from="1617134426741" duration="994000" />
+      <updated>1617724856643</updated>
+      <workItem from="1617724861915" duration="5136000" />
     </task>
     <servers />
   </component>
@@ -194,7 +167,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
