@@ -1019,7 +1019,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   jumpForce: 2
-  rigidbodyObj: {fileID: 1731865446}
+  jumpCountMax: {fileID: 0}
 --- !u!212 &1731865448
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1391,7 +1391,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   number: 0
   holdTime: 3
-  countDownText: {fileID: 0}
+  countDownText: {fileID: 481012640}
 --- !u!1 &2078492139
 GameObject:
   m_ObjectHideFlags: 0
