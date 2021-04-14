@@ -4,20 +4,62 @@
     <list default="true" id="d91cd27c-2d7b-42b5-93cf-da8e6bc2bba5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Creating With Code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Challenge 5.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Challenge 5.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Instructions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Instructions/Challenge 5 - Outcome.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Instructions/Challenge 5 - Outcome.mov.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Particles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Particles/Explosion_Cookie.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Particles/Explosion_Cookie.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Particles/Explosion_Pizza.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Particles/Explosion_Pizza.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Particles/Explosion_Skull.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Particles/Explosion_Skull.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Particles/Explosion_Steak.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Particles/Explosion_Steak.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Prefabs/Cookie.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Prefabs/Cookie.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Prefabs/Pizza.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Prefabs/Pizza.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Prefabs/Skull.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Prefabs/Skull.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Prefabs/Steak.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Prefabs/Steak.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Scripts/DestroyObjectX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Scripts/DestroyObjectX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Scripts/DifficultyButtonX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Scripts/DifficultyButtonX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Scripts/GameManagerX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Scripts/GameManagerX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Scripts/TargetX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/Scripts/TargetX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/_Source_Files.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/_Source_Files/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/_Source_Files/Materials/Black.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 5/_Source_Files/Materials/Black.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/DifficultyButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/DifficultyButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/GameManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/GameManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/Targets.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/Targets.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2 - Currently Unknown/Assets/Scenes/Runner Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 2 - Currently Unknown/Assets/Scenes/Runner Level 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2 - Currently Unknown/Assets/Scripts/CameraTracker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 2 - Currently Unknown/Assets/Scripts/CameraTracker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2 - Currently Unknown/Assets/Scripts/CharacterMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 2 - Currently Unknown/Assets/Scripts/CharacterMover.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2 - Currently Unknown/Assets/Scripts/FinishLine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 2 - Currently Unknown/Assets/Scripts/FinishLine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2 - Currently Unknown/Assets/Scripts/ObstacleSlider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 2 - Currently Unknown/Assets/Scripts/ObstacleSlider.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2 - Currently Unknown/Assets/Scripts/TriggerBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 2 - Currently Unknown/Assets/Scripts/TriggerBehavior.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Old Prototype FIles/Course Library/Scripts/CharacterMover.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Old Prototype FIles/Course Library/Scripts/CharacterMover.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Old Prototype FIles/Course Library/Scripts/FollowPlayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Old Prototype FIles/Course Library/Scripts/FollowPlayer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Old Prototype FIles/Course Library/Scripts/PlayerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Old Prototype FIles/Course Library/Scripts/PlayerController.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +77,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/DifficultyButton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Course Library/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Targets.cs" />
@@ -47,6 +85,9 @@
       <option value="$PROJECT_DIR$/Assets/Challenge 5/Scripts/TargetX.cs" />
       <option value="$PROJECT_DIR$/Assets/Challenge 5/Scripts/GameManagerX.cs" />
       <option value="$PROJECT_DIR$/Assets/Challenge 5/Scripts/DifficultyButtonX.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/FollowPlayer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/CharacterMover.cs" />
+      <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerController.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1qnojvyNlkJdIQFg6k5KFOaQ5XY" />
@@ -93,6 +134,7 @@
       <updated>1617724856643</updated>
       <workItem from="1617724861915" duration="5380000" />
       <workItem from="1617734253295" duration="543000" />
+      <workItem from="1618439498930" duration="2020000" />
     </task>
     <servers />
   </component>

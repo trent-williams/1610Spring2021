@@ -6,9 +6,9 @@ public class CharacterMover : MonoBehaviour
 {
     public CharacterController controller;
     public Vector3 movement;
-    public float speed = 3f, gravity = -8f;
+    [SerializeField] float speed = 3f, gravity = -8f;
     
-    void Update()
+    void FixedUpdate()
     {
         movement.y = gravity;
         movement.x = speed * Input.GetAxis("Horizontal");

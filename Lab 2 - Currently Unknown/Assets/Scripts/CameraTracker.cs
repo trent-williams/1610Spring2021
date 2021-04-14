@@ -7,11 +7,6 @@ public class CameraTracker : MonoBehaviour
     public GameObject player;
 
     private Vector3 offset = new Vector3(-7, 5, 0);
-    
-    void Start()
-    {
-        
-    }
 
     void Update()
     {
