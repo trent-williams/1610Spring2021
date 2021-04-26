@@ -16,7 +16,7 @@ public class CharacterMover2D : MonoBehaviour
     private int jumpCount;
 
 
-    private void Start()
+    private void Awake()
     {
         rigidbodyObj = GetComponent<Rigidbody2D>();
     }
