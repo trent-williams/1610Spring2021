@@ -1,15 +1,14 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 
 public class FinishLine : MonoBehaviour
 {
-    public TextMeshProUGUI winText;
-    public Button goFasterButton;
+    public UnityEvent finishLineEvent;
     
     private void OnTriggerEnter(Collider other)
     {
-        winText.gameObject.SetActive(true);
-        goFasterButton.gameObject.SetActive(true);
+        finishLineEvent.Invoke();
     }
 }

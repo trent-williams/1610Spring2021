@@ -1,16 +1,14 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 
 public class TriggerBehavior : MonoBehaviour
 {
-    public TextMeshProUGUI loseText;
-    public Button restartButton;
+    public UnityEvent triggerEvent;
     
     private void OnTriggerEnter(Collider other)
     {
-        print("Game Over");
-        loseText.gameObject.SetActive(true);
-        restartButton.gameObject.SetActive(true);
+        triggerEvent.Invoke();
     }
 }
